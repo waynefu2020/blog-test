@@ -13,7 +13,7 @@
 2. 成为前端程序员
 3. 年薪百万
 
-我会的语言有`Python`, `html`, 'css'，不信写一段给你看看：
+我会的语言有`Python`, `html`, `css`，不信写一段给你看看：
 
 ```python
 print('Interest Calculator:')
@@ -23,5 +23,7 @@ years = int(input('Duration (no. of years) ?'))
 total = (amount * pow(1 + (roi/100), years))
 interest = total - amount
 print('\nInterest = %0.2f' %interest)
-
 ```
+
+符大大
+2077年8月24日
